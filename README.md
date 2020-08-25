@@ -1,7 +1,7 @@
 # ios Weather app made by archan
-<br>
+
 Development Environment<br>
------------------------
+----------
 Used language : JavaScript<br>
 Used Editor : VS CODE, XCODE<br>
 Operating System : macOS Catalina<br>
